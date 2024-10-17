@@ -1,0 +1,9 @@
+# intellij files
+.idea/
+*.iml
+*.ipr
+*.iws
+build-idea/
+target/
+*/target/
+kpack-promql/gen
